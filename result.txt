@@ -1,0 +1,4 @@
+Thời gian chấm bài "hello": 4.52s
+ Problem   |             Status             |  Score / Total  |  NumTest  |  Time  
+----------------------------------------------------------------------------------------------------
+  hello    |      Submit Successfully       |    10.0 / 10    |    20     |  4.52  
